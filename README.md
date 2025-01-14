@@ -35,12 +35,18 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 
 #### Agent Management
 1. **Welcome page for Agent**
+
+
 ![A Agent](images/agenthome.png)
 
 2. **Agent Profile**
+
+
 ![A Agent](images/agprofile.png)
 
 3. **Agent Management**
+
+   
 ![A Agent](images/agents.png)
 
 #### Company Management
