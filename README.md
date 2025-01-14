@@ -64,7 +64,7 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 
 2. **Expired Medicine Management**
 
-![Manage Medicines](images2/adminexpired.png)
+![Manage Medicines](images2/adminexpiredmed.png)
 
 
 3. **Less Quantity Medicine Management**
