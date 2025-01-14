@@ -31,7 +31,7 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 
 #### Login and Sign Up
 ![Log In ](images/login.png)
-![Sign Up ](images/sign up.png)
+![Sign Up ](images/signup.png)
 
 #### Agent Management
 ![Add Agent](path_to_add_agent_image)
