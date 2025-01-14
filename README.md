@@ -34,7 +34,14 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 ![Sign Up ](images/signup.png)
 
 #### Agent Management
-![Add Agent](path_to_add_agent_image)
+1. **Welcome page for Agent**
+![A Agent](images/agenthome.png)
+
+2. **Agent Profile**
+![A Agent](images/agprofile.png)
+
+3. **Agent Management**
+![A Agent](images/agents.png)
 
 #### Company Management
 ![Manage Company](path_to_manage_company_image)
