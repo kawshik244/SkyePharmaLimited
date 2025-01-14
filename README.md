@@ -34,6 +34,7 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 ![Sign Up ](images/signup.png)
 
 #### Agent Management
+
 1. **Welcome page for Agent**
 
 
@@ -50,16 +51,46 @@ Our user-friendly interface is designed to facilitate ease of use for both admin
 ![A Agent](images/agents.png)
 
 #### Company Management
-![Manage Company](path_to_manage_company_image)
+
+
+![Manage Company](images2/admincompany.png)
 
 #### Medicine Management
-![Manage Medicines](path_to_manage_medicines_image)
+
+1. **Medicines Management**
+
+
+![Manage Medicines](images2/agmed.png)
+
+2. **Expired Medicine Management**
+
+![Manage Medicines](images2/adminexpired.png)
+
+
+3. **Less Quantity Medicine Management**
+
+![Manage Medicines](images2/adminless.png)
+
 
 #### Billing System
-![Bill Receipt](path_to_bill_receipt_image)
+
+1. **Billing Procedure**
+
+
+![Bill Receipt](images2/adminbilling.png)
+
+
+2. **Bill Receipt**
+
+![Bill Receipt](images2/billreceipt.png)
+
+
 
 #### Sales Tracking
-![Sales Overview](path_to_sales_overview_image)
+
+
+![Bill Receipt](images2/admintrx.png)
+
 
 ## Security Features
 - **Password Recovery**: Secure forget password feature with security questions.
